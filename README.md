@@ -53,7 +53,7 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
 >
 
 # 3.0 El proceso:
-# 3.1 Coloco TODOS los dispositivos:
+## 3.1 Coloco TODOS los dispositivos:
 
 
   
