@@ -34,8 +34,9 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
 
 - Router a Router:
 
-  >[!IMPORTANT]
-  >En redes más especializadas, se pueden usar conexiones seriales (RS-232) entre routers para intercambio de datos a bajo nivel.
+  > [!IMPORTANT]
+  > En redes más especializadas, se pueden usar conexiones seriales (RS-232) entre routers para intercambio de datos a bajo nivel.
+  >
   En cualquier caso, vamos a utilizar el serial.
 
   
