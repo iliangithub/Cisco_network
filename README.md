@@ -72,7 +72,11 @@ y 3 redes WAN:
 ![image](https://github.com/user-attachments/assets/5eddcf5e-ca65-492a-b1fe-76a51cd77f5c)
 
 >[!IMPORTANT]
->Esto es un dato importante.
+>Esto es un dato importante que utilizaremos más adelante.
+
+## 3.2 Conecto TODOS los dispositivos entre sí.
+
+Para ello, vamos a empezar por poner tarjetas de red a los portátiles, para que sea inalámbricos (WiFi) y además apagar los Access Point, para que los portátiles, móviles y tablets no se conecten automáticamente. 
 
 # 4.0 VLSM
 
