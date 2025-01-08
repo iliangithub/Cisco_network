@@ -73,3 +73,7 @@ y 3 redes WAN:
 
 >[!IMPORTANT]
 >Esto es un dato importante.
+
+# 4.0 VLSM
+
+El subneteo con VLSM (Variable Length Subnet Mask), máscara variable ó máscara de subred de longitud variable, es uno de los métodos que se implementó para evitar el agotamiento de direcciones IPv4 permitiendo un mejor aprovechamiento y optimización del uso de direcciones.
