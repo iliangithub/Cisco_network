@@ -67,4 +67,9 @@ y un total de 4 redes LAN.
 
 ![image](https://github.com/user-attachments/assets/160a6f0e-cac3-47fa-bd3e-37c86b5dc1b0)
 
+y 3 redes WAN:
 
+![image](https://github.com/user-attachments/assets/5eddcf5e-ca65-492a-b1fe-76a51cd77f5c)
+
+>[!IMPORTANT]
+>Esto es un dato importante.
