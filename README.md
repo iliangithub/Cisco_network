@@ -59,4 +59,12 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
 
 Entonces, una vez colocados todos los Hosts, o dispositivos finales, eso quiere decir, que cuento con:
 
-Hosts
+21 Hosts, en total:
+
+![image](https://github.com/user-attachments/assets/5f2a8afa-b71e-43eb-8dd3-66637c908efc)
+
+y un total de 4 redes LAN.
+
+![image](https://github.com/user-attachments/assets/160a6f0e-cac3-47fa-bd3e-37c86b5dc1b0)
+
+
