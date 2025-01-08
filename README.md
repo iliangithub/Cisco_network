@@ -52,5 +52,8 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
 > - DTE:
 >
 
+# 3.0 El proceso:
+# 3.1 Coloco TODOS los dispositivos:
+
 
   
