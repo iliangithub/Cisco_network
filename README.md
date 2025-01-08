@@ -55,5 +55,8 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
 # 3.0 El proceso:
 ## 3.1 Coloco TODOS los dispositivos:
 
+![image](https://github.com/user-attachments/assets/e51cf7e6-88d7-4e7e-86e1-512b92b1aca2)
 
-  
+Entonces, una vez colocados todos los Hosts, o dispositivos finales, eso quiere decir, que cuento con:
+
+Hosts
