@@ -4,7 +4,7 @@
 
 - Cisco PacketTracer 8.2.1 o superior.
 
-## 1.2 Topología de Red:
+# 2.0 Topología de Red:
 
 ![image](https://github.com/user-attachments/assets/b577b774-4e07-4965-b57f-62614afa98e8)
 
@@ -12,7 +12,7 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
 
 ********************************************
 
-## 1.3 Dispositivos de red:
+## 2.1 Dispositivos de red:
 
 - Para los Hosts o "EndPoints":
   
@@ -30,7 +30,7 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
   
   ![image](https://github.com/user-attachments/assets/265d4369-f7e0-4a8c-8c50-b3bbacb1321b)
  
-## 1.4 Conexiones:
+## 2.2 Conexiones:
 - Hosts, Servidores, Impresoras, Punto de acceso a switch
   
   Van a usar los Hosts, Servidores e Impresoras **FastEthernet** y el Punto de Acceso **GigaEthernet** los "copper-straight-through"
