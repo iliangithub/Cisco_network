@@ -31,8 +31,12 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
   ![image](https://github.com/user-attachments/assets/265d4369-f7e0-4a8c-8c50-b3bbacb1321b)
  
 ## 1.4 Conexiones:
+- Hosts, Servidores, Impresoras, Punto de acceso a switch
 
+- Switch a Router:
+  
 - Router a Router:
+
 
 > [!IMPORTANT]
 > En redes más especializadas, se pueden usar conexiones seriales (RS-232) entre routers para intercambio de datos a bajo nivel.
