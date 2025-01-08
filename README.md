@@ -12,6 +12,8 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
 
 ********************************************
 
+## 1.3 Dispositivos de red:
+
 - Para los Hosts o "EndPoints":
   
   ![image](https://github.com/user-attachments/assets/62add32d-4a26-4701-b0bd-5d968842b784)
@@ -28,3 +30,6 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
   
   ![image](https://github.com/user-attachments/assets/265d4369-f7e0-4a8c-8c50-b3bbacb1321b)
  
+## 1.4 Conexiones:
+
+En redes más especializadas, se pueden usar conexiones seriales (RS-232) entre routers para intercambio de datos a bajo nivel.
