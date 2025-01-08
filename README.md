@@ -33,11 +33,11 @@ Esta es la topología que debemos de recrear, para ello vamos a usar:
 ## 1.4 Conexiones:
 - Hosts, Servidores, Impresoras, Punto de acceso a switch
   
-Van a usar los Hosts, Servidores e Impresoras **FastEthernet** y el Punto de Acceso **GigaEthernet** los "copper-straight-through"
+  Van a usar los Hosts, Servidores e Impresoras **FastEthernet** y el Punto de Acceso **GigaEthernet** los "copper-straight-through"
 
 - Switch a Router:
 
-Cable cruzado, o "Copper Cross-Over"
+  Cable cruzado, o "Copper Cross-Over"
 
 - Router a Router:
 
