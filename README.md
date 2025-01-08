@@ -1,10 +1,10 @@
-# Cisco_network
+# 1.0 Introducción
 
-# Requisitos:
+## 1.1 Requisitos:
 
 - Cisco PacketTracer 8.2.1 o superior.
 
-# Topología de Red:
+## 1.2 Topología de Red:
 
 ![image](https://github.com/user-attachments/assets/b577b774-4e07-4965-b57f-62614afa98e8)
 
