@@ -88,6 +88,10 @@ La impresora también:
 
 ![image](https://github.com/user-attachments/assets/f720af8f-9529-4ac2-a1b3-b3e8deb30455)
 
+Por otro lado, voy a modificar también la red los Access Point, para que en vez, de ser FastEthernet, sea GigaEthernet.
+
+![image](https://github.com/user-attachments/assets/f437ce6a-50da-4200-a2a6-d53abc827716)
+
 # 4.0 VLSM
 
 El subneteo con VLSM (Variable Length Subnet Mask), máscara variable ó máscara de subred de longitud variable, es uno de los métodos que se implementó para evitar el agotamiento de direcciones IPv4 permitiendo un mejor aprovechamiento y optimización del uso de direcciones.
