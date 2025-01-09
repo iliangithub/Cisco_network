@@ -121,6 +121,10 @@ Ahora voy a conectar los Switch con los router, recordemos de usar el de cobre "
 > Las he reposicionado un poco, porque las etiquetas se solapaban un poco entre ellas. Así por lo menos se distinguen.
 >
 
+## 3.3 Conectar Router Entre Router, EXPLICACIÓN.
+
+
+
 # 4.0 VLSM
 
 El subneteo con VLSM (Variable Length Subnet Mask), máscara variable ó máscara de subred de longitud variable, es uno de los métodos que se implementó para evitar el agotamiento de direcciones IPv4 permitiendo un mejor aprovechamiento y optimización del uso de direcciones.
