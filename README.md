@@ -115,6 +115,11 @@ Voy a habiltiar algunas preferencias para que se vea mejor:
 
 Ahora voy a conectar los Switch con los router, recordemos de usar el de cobre "cross-over".
 
+![image](https://github.com/user-attachments/assets/a7de3b28-cb5d-42fc-9f1f-cd0e7e80804e)
+
+>[!TIP]
+> Las he reposicionado un poco, porque las etiquetas se solapaban un poco entre ellas. Así por lo menos se distinguen.
+>
 
 # 4.0 VLSM
 
