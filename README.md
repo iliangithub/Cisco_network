@@ -84,6 +84,10 @@ Y ahora, vamos a ponerle la antenita:
 
 ![image](https://github.com/user-attachments/assets/4ce67636-5d8c-4829-8d4c-59cb5d04b368)
 
+La impresora también:
+
+![image](https://github.com/user-attachments/assets/f720af8f-9529-4ac2-a1b3-b3e8deb30455)
+
 # 4.0 VLSM
 
 El subneteo con VLSM (Variable Length Subnet Mask), máscara variable ó máscara de subred de longitud variable, es uno de los métodos que se implementó para evitar el agotamiento de direcciones IPv4 permitiendo un mejor aprovechamiento y optimización del uso de direcciones.
