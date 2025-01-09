@@ -111,6 +111,11 @@ Voy a habiltiar algunas preferencias para que se vea mejor:
 
 ![image](https://github.com/user-attachments/assets/c7150fc1-7b17-4da2-a109-4a70787a2139)
 
+![image](https://github.com/user-attachments/assets/16952dbf-607f-4877-a245-9a8b3d5f21a8)
+
+Ahora voy a conectar los Switch con los router, recordemos de usar el de cobre "cross-over".
+
+
 # 4.0 VLSM
 
 El subneteo con VLSM (Variable Length Subnet Mask), máscara variable ó máscara de subred de longitud variable, es uno de los métodos que se implementó para evitar el agotamiento de direcciones IPv4 permitiendo un mejor aprovechamiento y optimización del uso de direcciones.
