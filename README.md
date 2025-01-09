@@ -97,6 +97,11 @@ Y también voy a añadir los puertos serial, a los router:
 
 ![image](https://github.com/user-attachments/assets/a6d0ec25-7794-428a-a128-92cd7ec10fa8)
 
+### 3.2.1 Conectarlos entre si:
+
+Primero todos los Hosts, recordemos que usamos el de **cobre "Straight-through"**
+
+
 # 4.0 VLSM
 
 El subneteo con VLSM (Variable Length Subnet Mask), máscara variable ó máscara de subred de longitud variable, es uno de los métodos que se implementó para evitar el agotamiento de direcciones IPv4 permitiendo un mejor aprovechamiento y optimización del uso de direcciones.
