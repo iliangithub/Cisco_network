@@ -100,7 +100,16 @@ Y también voy a añadir los puertos serial, a los router:
 ### 3.2.1 Conectarlos entre si:
 
 Primero todos los Hosts, recordemos que usamos el de **cobre "Straight-through"**
+Recordemos también que los Hosts en sí, van a estar coenctados a través de los FastEthernet, y los AccessPoint con los GigaEthernet (los naranja, que para eso lo hemos puesto).
 
+
+![image](https://github.com/user-attachments/assets/8633d300-515b-4a84-ad84-89c581070505)
+
+Este es el resultado.
+
+Voy a habiltiar algunas preferencias para que se vea mejor:
+
+![image](https://github.com/user-attachments/assets/c7150fc1-7b17-4da2-a109-4a70787a2139)
 
 # 4.0 VLSM
 
