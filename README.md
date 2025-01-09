@@ -78,6 +78,12 @@ y 3 redes WAN:
 
 Para ello, vamos a empezar por poner tarjetas de red a los portátiles, para que sea inalámbricos (WiFi) y además apagar los Access Point, para que los portátiles, móviles y tablets no se conecten automáticamente. 
 
+![image](https://github.com/user-attachments/assets/a9186d57-96f4-46bf-8a09-6c051402f839)
+
+Y ahora, vamos a ponerle la antenita:
+
+![image](https://github.com/user-attachments/assets/4ce67636-5d8c-4829-8d4c-59cb5d04b368)
+
 # 4.0 VLSM
 
 El subneteo con VLSM (Variable Length Subnet Mask), máscara variable ó máscara de subred de longitud variable, es uno de los métodos que se implementó para evitar el agotamiento de direcciones IPv4 permitiendo un mejor aprovechamiento y optimización del uso de direcciones.
