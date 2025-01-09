@@ -95,6 +95,7 @@ Por otro lado, voy a modificar también la red los Access Point, para que en vez
 
 Y también voy a añadir los puertos serial, a los router:
 
+![image](https://github.com/user-attachments/assets/a6d0ec25-7794-428a-a128-92cd7ec10fa8)
 
 # 4.0 VLSM
 
