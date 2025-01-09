@@ -1,8 +1,11 @@
 # 1.0 Introducción
 
+Esto es un ejercicio 
+
 ## 1.1 Requisitos:
 
 - Cisco PacketTracer 8.2.1 o superior.
+- La IP base será: **194.105.110.0 /24**
 
 # 2.0 Topología de Red:
 
